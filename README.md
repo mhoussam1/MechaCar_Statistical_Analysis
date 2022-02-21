@@ -89,4 +89,12 @@ Here both p-values are above the significance level, so we can conclude that the
 
 ## Study Design: MechaCar vs Competition
 
+What metric or metrics are you going to test?
+
+
+Electric vehicles and environmental awareness are on the rise and customers are more cautious about pollution and car emissions. But the electric car market is not as cheap as other cars and do not produce the variety, MechaCar can provide a good alternative. Based on that, I would suggest testing for the following metrics to compare MechaCar against competition: a comparison of a single dependent variable exhaust system emissions means across a single independent variable transmission efficiency with multiple groups the competition data.
+What is the null hypothesis or alternative hypothesis?
+To compare MachaCar against competition I would set up the following hypotheses:
+H0: The means of exhaust system emissions of all groups are equal.
+Ha: At least one of the means of exhaust system emissions is different from all other groups.
 
