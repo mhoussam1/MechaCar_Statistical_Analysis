@@ -102,3 +102,13 @@ To compare MachaCar against competition I would set up the following hypotheses:
 H0: The means of exhaust system emissions of all groups are equal.
 Ha: At least one of the means of exhaust system emissions is different from all other groups.
 
+- What statistical test would you use to test the hypothesis? 
+
+To test the hypotheses, I would use a one-way ANOVA test, also known as Analysis of Variance. 
+
+
+- What data is needed to run the statistical test? 
+In order to run this statistical test, we need the data from:
+•	vehicle ID
+•	exhaust system emissions data
+•	transmission efficiency data
