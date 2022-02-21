@@ -1,20 +1,31 @@
 # MechaCar_Statistical_Analysis
 
 
-## Overview of Project
+## Overview of Project:
+
+This project involves the use of statistics and hypothesis testing to analyze a series of datasets from the automotive industry.
+All of the statistical analysis and visualizations is written in the R programming language.
+
+
 # Background: 
 
+A few weeks after starting his new role, Jeremy is approached by upper management about a special project. AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. AutosRUs’ upper management has called on Jeremy and the data analytics team to review the production data for insights that may help the manufacturing team.
+
+In this challenge, you’ll help Jeremy and the data analytics team do the following:
+
+Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
+Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
+Run t-tests to determine if the manufacturing lots are statistically different from the mean population
+Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
 
 
-## Analysis and Challenges
+## Linear Regression to Predict MPG
 
-### 	How is the district summary affected?
-The district summary is affected as the clean version for the data removes a total of 461 results from the 9th graders from Thomas High School, which in turn has a huge effect on the averages and the percentages. The percentages are seen to drop because of the changes which are the removal of the data. 
 
-### 	How is the school summary affected?
 
-We see that the school summary is affected when it comes to the percentages for math, reading and the overall grades. Once the grades for the 9th grade are removed. We can see that there is the Thomas high school they jump to the 2nd, the totals for the 10th till the 12th grade percentages. They can be seen on the pictures. 
+
+
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
