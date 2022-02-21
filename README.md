@@ -1,13 +1,13 @@
 # MechaCar_Statistical_Analysis
 
 
-## Overview of Project:
+# Overview of Project:
 
 This project involves the use of statistics and hypothesis testing to analyze a series of datasets from the automotive industry.
 All of the statistical analysis and visualizations is written in the R programming language.
 
 
-# Background: 
+## Background: 
 
 A few weeks after starting his new role, Jeremy is approached by upper management about a special project. AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. AutosRUs’ upper management has called on Jeremy and the data analytics team to review the production data for insights that may help the manufacturing team.
 
@@ -20,7 +20,7 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
 
 
 
-## Linear Regression to Predict MPG
+# Linear Regression to Predict MPG
 
 
 
