@@ -22,12 +22,15 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
 
 # Linear Regression to Predict MPG
 
+In the summary output, each Pr(>|t|) value represents the that each coefficient contributes a random amount of variance to the linear model as a probability. According to our results vehicle length and ground clearance provide a non-random amount of variance to the linear model of mpg.
+
+![98474372-f439e280-21ba-11eb-8f80-d707ca8003d5](https://user-images.githubusercontent.com/93894964/154876523-3c9d0a0f-10ff-4e13-b550-da8b6a2bc85d.png)
 
 
 
+### Multi linear model is:
 
-
-### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+mpg = 6.27 * vehicle_length + 1.25e-3 * vehicle_weigth + 6.88e-2 * spoiler_angle -3.41 * AWD + 3.55 * ground_clearance - 1.04e+2
 
 Thomas High School's overall performance is seen to be better and jumps to the 2nd on the list, moving down a lot of schools. 
 
