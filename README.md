@@ -66,3 +66,26 @@ p-value of 0.069 is above the significance level. Therefore, we do not have suff
 
 
 ## T-Tests each manufacturing lot against the population mean
+
+
+- lot 1:
+
+Here the p-value is below the significance level of 0.05 percent, so we can reject the null hypothesis and conclude that the PSI across the Lot 1 is statistically different from the population mean.
+
+
+![lot 1](https://user-images.githubusercontent.com/93894964/154879543-cbeca968-c349-42ba-b358-e5b96ff57500.png)
+
+
+
+
+- Lot 2 and 3 
+
+Here both p-values are above the significance level, so we can conclude that the PSI for Lot2 and Lot3 are statistically similar to the population mean.
+
+
+![lot 2](https://user-images.githubusercontent.com/93894964/154879595-875346d1-535f-40f1-959a-af2c2a916667.png)
+
+![lot 3](https://user-images.githubusercontent.com/93894964/154879613-2c43aa5a-494c-461e-a6d9-e119b3bd33f6.png)
+
+
+## Study Design: MechaCar vs Competition
