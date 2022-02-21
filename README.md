@@ -36,19 +36,15 @@ R-square is 0.71 so 71% of the variations in mpg can be explained by changes in 
 
 # Summary Statistics on Suspension Coils
 
-- Math and reading scores by grade
 
-Because Thomas High School ninth graders are labeled as nan in both math and reading. This creates a void in the data and makes them be seen as an outlier. Because those results make a big effect on the percentages. 
-
-- Scores by school spending
-From the graph we are able to see that the campaigns with goals less then 20k and between 35-45k have a higher percentage of successful campaigns while campaigns with goals greater then 45k or between 20-35k showed a higher percentage of failed campaigns. There was no record of any canceled campaigns therefore it was not shown on the graph. 
+All manufacturing lots
 
 
-- Scores by school size
+By each manufacturing lot
 
-
-All the percentages went down for all the different sized school groups, especially shown on the small and medium sized schools. 
-
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
+The design specs are respected for all manufacturing lots in total with a global variance of 62.3 psi.
+On the lot level, Lot 1 and Lot 2 are into specs with respectively variances of 0.98 and 7.5 psi. The Lot 3 is out of specs with a variance of 170.3 psi.
 
 
 - Scores by school type
