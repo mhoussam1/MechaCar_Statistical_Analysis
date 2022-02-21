@@ -32,7 +32,7 @@ In the summary output, each Pr(>|t|) value represents the that each coefficient 
 
 mpg = 6.27 * vehicle_length + 1.25e-3 * vehicle_weigth + 6.88e-2 * spoiler_angle -3.41 * AWD + 3.55 * ground_clearance - 1.04e+2
 
-R-square is 0.71 so 71% of the variations in mpg can be explained by changes in the vehicle length, the vehicle weight, the spoiler angle, the drivetrain and the ground clearance. We can consider this linear model as fairly efficient to predict mpg of MechaCar prototypes.
+R-square is 0.71. showing that 71 percent of the variations in mpg can be explained by changes in the vehicle length, the spoiler angle, the vehicle weight, the drivetrain and the ground clearance. We can consider this linear model as fairly efficient to predict mpg of MechaCar prototypes.
 
 # Summary Statistics on Suspension Coils
 
@@ -49,7 +49,7 @@ By each manufacturing lot:
 
 
 
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
+The design specifications for the coils show that the variance of the suspension coils must not exceed 100 pounds per square inch.
 The design specs are respected for all manufacturing lots in total with a global variance of 62.3 psi.
 On the lot level, Lot 1 and Lot 2 are into specs with respectively variances of 0.98 and 7.5 psi. The Lot 3 is out of specs with a variance of 170.3 psi.
 
@@ -59,7 +59,7 @@ On the lot level, Lot 1 and Lot 2 are into specs with respectively variances of 
 
 ## T-Test all manufacturing lots against the population mean
 
-p-value of 0.069 is above the significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we can state that the PSI across all manufacturing lots is statiscally similar to the population mean of 1498.78 psi.
+p-value of 0.069 is above the significance level. Therefore, we are not able to reject the null hypothesis as we don’t have the evidence  and we can state that the PSI across all manufacturing lots is statically similar to the population mean of 1498.78 psi.
 
 ![3](https://user-images.githubusercontent.com/93894964/154878948-ffd06a7c-5393-4cfb-96e4-5a5a6d56bcb1.png)
 
@@ -70,8 +70,7 @@ p-value of 0.069 is above the significance level. Therefore, we do not have suff
 
 - lot 1:
 
-Here the p-value is below the significance level of 0.05 percent, so we can reject the null hypothesis and conclude that the PSI across the Lot 1 is statistically different from the population mean.
-
+The p-value is below the significance level of 0.05 percent, so we can reject the null hypothesis and conclude that the PSI across the Lot 1 is statistically different from the population mean.
 
 ![lot 1](https://user-images.githubusercontent.com/93894964/154879543-cbeca968-c349-42ba-b358-e5b96ff57500.png)
 
