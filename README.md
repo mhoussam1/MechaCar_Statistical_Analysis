@@ -57,4 +57,12 @@ On the lot level, Lot 1 and Lot 2 are into specs with respectively variances of 
 
 # T-Tests on Suspension Coils
 
-- Math Scores
+## T-Test all manufacturing lots against the population mean
+
+p-value of 0.069 is above the significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we can state that the PSI across all manufacturing lots is statiscally similar to the population mean of 1498.78 psi.
+
+![3](https://user-images.githubusercontent.com/93894964/154878948-ffd06a7c-5393-4cfb-96e4-5a5a6d56bcb1.png)
+
+
+
+## T-Tests each manufacturing lot against the population mean
