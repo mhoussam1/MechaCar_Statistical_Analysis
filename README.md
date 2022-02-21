@@ -32,9 +32,9 @@ In the summary output, each Pr(>|t|) value represents the that each coefficient 
 
 mpg = 6.27 * vehicle_length + 1.25e-3 * vehicle_weigth + 6.88e-2 * spoiler_angle -3.41 * AWD + 3.55 * ground_clearance - 1.04e+2
 
-Thomas High School's overall performance is seen to be better and jumps to the 2nd on the list, moving down a lot of schools. 
+R-square is 0.71 so 71% of the variations in mpg can be explained by changes in the vehicle length, the vehicle weight, the spoiler angle, the drivetrain and the ground clearance. We can consider this linear model as fairly efficient to predict mpg of MechaCar prototypes.
 
-## How does replacing the ninth-grade scores affect the following:
+# Summary Statistics on Suspension Coils
 
 - Math and reading scores by grade
 
