@@ -37,20 +37,24 @@ R-square is 0.71 so 71% of the variations in mpg can be explained by changes in 
 # Summary Statistics on Suspension Coils
 
 
-All manufacturing lots
+All manufacturing lots:
+
+![1](https://user-images.githubusercontent.com/93894964/154878019-f762add1-5846-4fb9-957c-fe4e21602f59.png)
 
 
-By each manufacturing lot
+By each manufacturing lot:
+
+![2](https://user-images.githubusercontent.com/93894964/154878030-69eb6968-f2c5-4b7d-b6e4-f70ab97a2abd.png)
+
+
+
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
 The design specs are respected for all manufacturing lots in total with a global variance of 62.3 psi.
 On the lot level, Lot 1 and Lot 2 are into specs with respectively variances of 0.98 and 7.5 psi. The Lot 3 is out of specs with a variance of 170.3 psi.
 
 
-- Scores by school type
 
-The percentages are also seen to be dropping for both school types, showing decreases in all subjects. 
-
-## Tables of The Results:
+# T-Tests on Suspension Coils
 
 - Math Scores
